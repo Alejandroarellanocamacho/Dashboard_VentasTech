@@ -50,7 +50,8 @@ A partir de un conjunto de datos de ventas, se generaron visualizaciones interac
 
 ## ✅ Principales hallazgos
 
-- Las **categorías A y C** concentran más del 70% de las ventas totales.  
+- Las **categorías A y C** concentran más del 70% de las ventas totales. 
+----------------------------- 
 | Categoría   | % de ventas |
 |-------------|-------------|
 | Categoría A | 40%         |
